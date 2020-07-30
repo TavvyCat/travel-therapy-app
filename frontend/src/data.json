@@ -1,0 +1,32 @@
+{
+    "1" : {
+        "title" : "Outpatient Physical Therapist",
+        "company" : "Star Physical Therapy",
+        "facility" : "Outpatient",
+        "occupation" : "Physical Therapist",
+        "state" : "Louisiana",
+        "city" : "New Orleans",
+        "compensation" : "1600 per week",
+        "description" : "Performs evaluations and develops effective patient treatment plans to restore, maintain or prevent decline of patient function, by planning and administering medically prescribed therapy treatments in accordance with federal, state and professional standards governing outpatient and home health care. Services may be performed in therapy clinic or individual patient residence. Coordinates the program and services provided at assigned location(s), including outpatient and home health therapy and wellness."
+    },
+    "2" : {
+        "title" : "Home Health Physical Therapist",
+        "company" : "Angels at Home Physical Therapy",
+        "facility" : "Home Health",
+        "occupation" : "Physical Therapist",
+        "state" : "North Carolina",
+        "city" : "Raleigh",
+        "compensation" : "1500 per week, reimbursement for gas",
+        "description" : "Our Physical Therapists examine and treat patients with physical impairments through the use of physical modalities. The goal is to assist persons who are physically challenged to improve mobility and function, independent self-care, other skills necessary for functioning in daily living. We have Specialty Programs that include Balance and Fall Prevention, Spine Safety, Total Hip and Knee Replacement Program, and our Total Shoulder Replacement Program. He/she administers skilled care to clients requiring intermittent professional services and teaches the family and other members of the health care team. These services are performed in accordance with the physician’s orders and the established plan of care, under the direction and supervision of the Branch Director."
+    },
+    "3" : {
+        "title" : "Inpatient Speech Therapist",
+        "company" : "Nashville Community Hospital",
+        "facility" : "Inpatient Hospital",
+        "occupation" : "Speech Therapist",
+        "state" : "Tennessee",
+        "city" : "Nashville",
+        "compensation" : "1700 per week",
+        "description" : "Looking for an energetic candidate to work in acute care and inpatient rehab units at our community based hospital. Candidate must work well in a team environment, be an excellent communicator and efficient with time management. Previous experience with inpatient rehab patients and video swallow studies is preferred. Experience in neurological diagnoses preferred as well. Weekend shift coverage will be required (as a rotation with other colleagues)."
+    }
+}
